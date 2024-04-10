@@ -4,7 +4,7 @@ body {
     background-image: url(2023-audi-r8-v10-gt-rwd-exterior.jp);
 }
 .cabecalho{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     padding: 30px;
     width: 97%;
     border-style: groove;
