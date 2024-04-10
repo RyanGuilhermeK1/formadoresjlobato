@@ -6,5 +6,6 @@ body {
 }
 .cabecalho{
     margin: 50px;
-    border: 87px;
+    border-style: groove;
+    padding: 67px;
 }
