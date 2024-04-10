@@ -3,5 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(2023-audi-r8-v10-gt-rwd-exterior.jpg);
-
+}
+.cabecalho{
+    background-color: black;
+    padding: 30px;
+    width: 97%;
+    border-style: groove;
+    border-color: rgb(197, 42, 75);
 }
