@@ -23,3 +23,6 @@ img{
 .audia5{
     padding: 50%;
 }
+section {
+    display: flex;
+}
